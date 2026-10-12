@@ -30,6 +30,7 @@ Country.FirstName,
 Country.LastName, 
 Country.Company, 
 Country.Country  
+
 FROM  customer AS Country
 
 WHERE Country.Country <> "USA"
