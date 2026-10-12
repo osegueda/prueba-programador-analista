@@ -13,4 +13,4 @@ Desarrolla las tres (3) consultas SQL solicitadas en el enunciado de la prueba.
 La solución a las consultas debe colocarse en un script independiente (por ejemplo, `soluciones/consultaN.sql`) dentro de la misma carpeta `SQL/`.
 
 
-### Entregado por: ACA DEBERÁS COLOCAR TU NOMBRE COMPLETO
+### Entregado por: Moisés Ernesto Flores Osegueda
